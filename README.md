@@ -1,4 +1,4 @@
-# Web-Traffic-Analytics-ML-Model
+# Web_Traffic_Analytics
 
 The Jupyter Notebook contains a detailed exploration of classifying website visitors using logistic regression. Here is an overview of its contents and features:
 
